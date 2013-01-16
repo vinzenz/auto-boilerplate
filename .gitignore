@@ -16,3 +16,4 @@ libtool
 *.lo
 *.la
 *.a
+*.sw[po]
