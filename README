@@ -1,0 +1,8 @@
+auto-boilerplate
+================
+
+    Version: 0.1
+    Author: Vinzenz Feenstra
+
+auto-boilerplate is a simple boilerplate project for C++ libraries/applications
+using auto tools as build system
